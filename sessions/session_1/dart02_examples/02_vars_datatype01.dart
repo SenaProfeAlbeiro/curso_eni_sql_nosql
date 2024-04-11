@@ -15,7 +15,4 @@ void main() {
   print("Edad: " + age.toString());
   print("Funcionario: " + officer.toString());
   print("Altura: " + height.toString());
-
 }
-
-
