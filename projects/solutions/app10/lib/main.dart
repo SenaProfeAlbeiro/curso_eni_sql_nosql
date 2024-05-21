@@ -161,7 +161,7 @@ class _HomePrincipalState extends State<HomePrincipal> {
             },
           );
         },
-        child: Icon(Icons.plus_one),
+        child: Icon(Icons.account_circle),
       ),
     );
   }
