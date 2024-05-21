@@ -1,6 +1,15 @@
 import 'dart:io';
 
 void main() {
+  // var num01;
+  // var num02 = 10;
+  // var res;
+
+  // stdout.write('Digite un número: ');
+  // num01 = stdin.readLineSync();
+  // res = int.parse(num01) + num02;
+  // print('Hello, $res!');
+
   double num01 = 10;
   double num02 = 2;
   double res;
